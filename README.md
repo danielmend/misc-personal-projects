@@ -2,7 +2,7 @@
 
 ### Personal projects I've worked on over the years
 
-Chaos - creating chaotic systems
+Chaos - generating novel chaotic attractors
 
 Connect4 - an AI connect 4 opponent
 
