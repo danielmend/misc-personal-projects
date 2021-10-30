@@ -4,7 +4,7 @@
 
 Chaos - a project to generate novel chaotic attractors. The notebook generates an animated gif of a (hopefully) never-before-seen chaotic attractor. I was inspired to create this after watching [this video](https://www.youtube.com/watch?v=idpOunnpKTo). I wrote this notebook over the course of a 13 hour flight during the summer after my senior year of high school. 
 
-Connect4 - an AI connect 4 opponent. I wrote this during my Advanced Algorithms class in my Junior year of high school. The notebook implements connect-4 as well as a bot that uses minimax to play against you. This bot almost beat the collective of my algorithms class!
+Connect4 - an AI connect-4 opponent. I wrote this during my Advanced Algorithms class in my Junior year of high school. The notebook implements connect-4 as well as a bot that uses minimax to play against you. This bot almost beat the collective of my algorithms class!
 
 Spiral Intersections - computing intersections of lines and parametric curves. Written during my freshman year in college. Inspired by my friend Griffin who has having difficulty computing the intersection of a line and a spiral. In order to compute intersections, you can project a rectangle between each (x,y) coordinate of both the line and spiral and then check for overlapping rectangles. 
 
