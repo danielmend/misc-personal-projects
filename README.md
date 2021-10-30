@@ -6,6 +6,6 @@ Chaos - a project to generate novel chaotic attractors. The notebook generates a
 
 Connect4 - an AI connect-4 opponent. I wrote this during my Advanced Algorithms class in my Junior year of high school. The notebook implements the connect-4 game as well as a bot that uses minimax to play against you. This bot almost beat my teacher.
 
-Spiral Intersections - computing intersections of lines and parametric curves. Written during my freshman year in college. Inspired by my friend Griffin who has having difficulty computing the intersection of a line and a spiral. In order to compute intersections, you can project a rectangle between each (x,y) coordinate of both the line and spiral and then check for overlapping rectangles. 
+Spiral Intersections - computing intersections of lines and parametric curves. Written during my freshman year in college. Inspired by my friend Griffin who was having difficulty computing the intersection of a line and a spiral. In order to compute intersections, you can project a rectangle between each (x,y) coordinate of both the line and spiral and then check for overlapping rectangles. 
 
 [StyleGAN-2 Visualizer](https://colab.research.google.com/drive/1WtZmXYrRJ5GoK1C9wLSt2hjaTxycQiG9?usp=sharing) - using StyleGAN to create music visualizers. Inspired by [this reddit post](https://www.reddit.com/r/MachineLearning/comments/e23ezq/p_using_stylegan_to_make_a_music_visualizer/), I decided to try my recreating this algorithm on my own. I used a modified pretrained StyleGAN google Colab to do this during my Junior year of highschool.
